@@ -258,13 +258,9 @@ h6,
 
 /*** Hero Header ***/
 .hero-header {
-    margin-bottom: 6rem;
-    padding: 16rem 0 0 0;
+    padding: 0 0 0 0;
     background:
-        url(../img/bg-circle.png),
-        url(../img/bg-triangle.png),
-        url(../img/bg-bottom.png),
-        linear-gradient(to bottom right, var(--primary), var(--secondary));
+        url(../img/bg-top.jpg);
     background-position:
         left 0px top 0px,
         right 0px top 50%,
